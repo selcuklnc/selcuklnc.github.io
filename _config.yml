@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Selcuk Kilinc / Personal Website"
+title                    : "Selcuk Kilinc's Personal Website"
 title_separator          : "-"
 name                     : &name "Selcuk Kilinc"
-description              : &description "PhD-trained science educator and software engineer who fuses rigorous research with cutting-edge technology to elevate STEM learning."
+description              : &description "PhD-trained science educator and software engineer who fuses rigorous research with cutting-edge technology to elevate STEM learning from K-12 classrooms to university lecture halls."
 url                      : https://selcuklnc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
